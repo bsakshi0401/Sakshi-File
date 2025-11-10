@@ -1,0 +1,35 @@
+1. What is Git?
+
+Git is a version control system — it helps you track changes in your code, go back to older versions, and collaborate with others.
+
+Think of it like a “time machine” for your code.
+
+🔹 Key Points:
+
+Developed by Linus Torvalds (the creator of Linux).
+
+Keeps track of file changes using commits.
+
+Lets multiple people work on the same project without overwriting each other’s work.
+
+2. What Is GitHub?
+
+GitHub is a cloud-based platform that hosts Git repositories online.
+
+It’s where you store your Git projects remotely, share them, and collaborate with others.
+
+3. How Git Works (Workflow)
+
+Let’s understand the 3 main areas:
+
+Working Directory – Where you make changes (actual files).
+
+Staging Area – Where you prepare files to be committed.
+
+Repository (Local Repo) – Where commits are permanently saved.
+
+Then, you can push your changes to the Remote Repository (GitHub).
+
+Flow:
+
+Work → Stage → Commit → Push to GitHub
